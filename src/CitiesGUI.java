@@ -13,7 +13,7 @@ public class CitiesGUI extends JFrame {
     public CitiesGUI() {
         setTitle("City Browser");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setSize(500, 350);
+        setSize(450, 350);
         setLayout(new BorderLayout());
 
         loadCitiesFromFile("data/cities.txt");
@@ -21,22 +21,22 @@ public class CitiesGUI extends JFrame {
         JPanel panel = new JPanel(new GridLayout(7, 2));
 
         // Creation of labels and fields
-        panel.add(new JLabel("Reference:"));
+        panel.add(new JLabel("  Reference:"));
         tfRef = new JTextField(); tfRef.setEditable(false); panel.add(tfRef);
 
-        panel.add(new JLabel("Genitive:"));
+        panel.add(new JLabel("  Genitive:"));
         tfGen = new JTextField(); tfGen.setEditable(false); panel.add(tfGen);
 
-        panel.add(new JLabel("Dative:"));
+        panel.add(new JLabel("  Dative:"));
         tfDat = new JTextField(); tfDat.setEditable(false); panel.add(tfDat);
 
-        panel.add(new JLabel("English name:"));
+        panel.add(new JLabel("  English name:"));
         tfEnName = new JTextField(); tfEnName.setEditable(false); panel.add(tfEnName);
 
-        panel.add(new JLabel("Region:"));
+        panel.add(new JLabel("  Region:"));
         tfRegion = new JTextField(); tfRegion.setEditable(false); panel.add(tfRegion);
 
-        panel.add(new JLabel("Department:"));
+        panel.add(new JLabel("  Department:"));
         tfDepartment = new JTextField(); tfDepartment.setEditable(false); panel.add(tfDepartment);
         add(panel, BorderLayout.CENTER);
 
