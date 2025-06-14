@@ -1,0 +1,92 @@
+la^Tour Eiffel#de^la Tour Eiffel#la^Tour Eiffel#à^la Tour Eiffel#feminine#1#Sights
+le^Musée du Louvre#du^Musée du Louvre#le^Musée du Louvre#au^Musée du Louvre#masculine#1#Museums
+l'^Hôpital de la Timone#de^l'Hôpital de la Timone#l'^Hôpital de la Timone#à^l'Hôpital de la Timone#masculine#2#Hospitals
+l'^Université Lyon 1#de^l'Université Lyon 1#l'^Université Lyon 1#à^l'Université Lyon 1#feminine#3#Universities
+la^Basilique Saint-Sernin#de^la Basilique Saint-Sernin#la^Basilique Saint-Sernin#à^la Basilique Saint-Sernin#feminine#4#Sights
+le^Vieux Port#du^Vieux Port#le^Vieux Port#au^Vieux Port#masculine#2#Sights
+le^Centre Georges Pompidou#du^Centre Georges Pompidou#le^Centre Georges Pompidou#au^Centre Georges Pompidou#masculine#1#Museums
+la^Gare de Lyon#de^la Gare de Lyon#la^Gare de Lyon#à^la Gare de Lyon#feminine#1#Businesses
+le^Palais des Papes#du^Palais des Papes#le^Palais des Papes#au^Palais des Papes#masculine#44#Sights
+l'^Université de Strasbourg#de^l'Université de Strasbourg#l'^Université de Strasbourg#à^l'Université de Strasbourg#feminine#7#Universities
+la^Cathédrale Notre-Dame#de^la Cathédrale Notre-Dame#la^Cathédrale Notre-Dame#à^la Cathédrale Notre-Dame#feminine#1#Sights
+le^Château de Versailles#du^Château de Versailles#le^Château de Versailles#au^Château de Versailles#masculine#46#Sights
+le^Musée Matisse#du^Musée Matisse#le^Musée Matisse#au^Musée Matisse#masculine#5#Museums
+la^Gare Saint-Charles#de^la Gare Saint-Charles#la^Gare Saint-Charles#à^la Gare Saint-Charles#feminine#2#Businesses
+l'^Aéroport de Lyon-Saint-Exupéry#de^l'Aéroport de Lyon-Saint-Exupéry#l'^Aéroport de Lyon-Saint-Exupéry#à^l'Aéroport de Lyon-Saint-Exupéry#masculine#3#Airports
+l'^Université de Bordeaux#de^l'Université de Bordeaux#l'^Université de Bordeaux#à^l'Université de Bordeaux#feminine#9#Universities
+l'^Hôpital Pellegrin#de^l'Hôpital Pellegrin#l'^Hôpital Pellegrin#à^l'Hôpital Pellegrin#masculine#9#Hospitals
+le^Musée des Beaux-Arts de Nantes#du^Musée des Beaux-Arts de Nantes#le^Musée des Beaux-Arts de Nantes#au^Musée des Beaux-Arts de Nantes#masculine#6#Museums
+la^Place Bellecour#de^la Place Bellecour#la^Place Bellecour#à^la Place Bellecour#feminine#3#Sights
+la^Cathédrale Saint-Pierre#de^la Cathédrale Saint-Pierre#la^Cathédrale Saint-Pierre#à^la Cathédrale Saint-Pierre#feminine#6#Sights
+l'^Université de Strasbourg#de^l'Université de Strasbourg#l'^Université de Strasbourg#à^l'Université de Strasbourg#feminine#7#Universities
+la^Place du Capitole#de^la Place du Capitole#la^Place du Capitole#à^la Place du Capitole#feminine#4#Sights
+le^Zénith de Toulouse#du^Zénith de Toulouse#le^Zénith de Toulouse#au^Zénith de Toulouse#masculine#4#Businesses
+le^CHU de Nantes#du^CHU de Nantes#le^CHU de Nantes#au^CHU de Nantes#masculine#6#Hospitals
+l'^Université de Montpellier#de^l'Université de Montpellier#l'^Université de Montpellier#à^l'Université de Montpellier#feminine#8#Universities
+le^Corum#du^Corum#le^Corum#au^Corum#masculine#8#Sights
+le^Musée Fabre#du^Musée Fabre#le^Musée Fabre#au^Musée Fabre#masculine#8#Museums
+la^Cité du Vin#de^la Cité du Vin#la^Cité du Vin#à^la Cité du Vin#feminine#9#Museums
+le^Palais des Congrès#du^Palais des Congrès#le^Palais des Congrès#au^Palais des Congrès#masculine#1#Businesses
+l'^Université de Lille#de^l'Université de Lille#l'^Université de Lille#à^l'Université de Lille#feminine#10#Universities
+le^Palais Rameau#du^Palais Rameau#le^Palais Rameau#au^Palais Rameau#masculine#10#Sights
+le^Zénith de Lille#du^Zénith de Lille#le^Zénith de Lille#au^Zénith de Lille#masculine#10#Businesses
+la^Citadelle de Lille#de^la Citadelle de Lille#la^Citadelle de Lille#à^la Citadelle de Lille#feminine#10#Sights
+l'^Aéroport Charles-de-Gaulle#de^l'Aéroport Charles-de-Gaulle#l'^Aéroport Charles-de-Gaulle#à^l'Aéroport Charles-de-Gaulle#masculine#1#Airports
+le^CNRS#du^CNRS#le^CNRS#au^CNRS#masculine#1#Businesses
+le^Centre hospitalier d'Avignon#du^Centre hospitalier d'Avignon#le^Centre hospitalier d'Avignon#au^Centre hospitalier d'Avignon#masculine#44#Hospitals
+la^Place Stanislas#de^la Place Stanislas#la^Place Stanislas#à^la Place Stanislas#feminine#37#Sights
+l'^Université de Rennes#de^l'Université de Rennes#l'^Université de Rennes#à^l'Université de Rennes#feminine#11#Universities
+la^Cathédrale Saint-Corentin#de^la Cathédrale Saint-Corentin#la^Cathédrale Saint-Corentin#à^la Cathédrale Saint-Corentin#feminine#24#Sights
+le^Muséum d'Histoire Naturelle de Rouen#du^Muséum d'Histoire Naturelle de Rouen#le^Muséum d'Histoire Naturelle de Rouen#au^Muséum d'Histoire Naturelle de Rouen#masculine#35#Museums
+le^CHU de Grenoble#du^CHU de Grenoble#le^CHU de Grenoble#au^CHU de Grenoble#masculine#16#Hospitals
+l'^Université Grenoble Alpes#de^l'Université Grenoble Alpes#l'^Université Grenoble Alpes#à^l'Université Grenoble Alpes#feminine#16#Universities
+le^Parc de la Tête d'Or#du^Parc de la Tête d'Or#le^Parc de la Tête d'Or#au^Parc de la Tête d'Or#masculine#3#Sights
+le^Zénith de Dijon#du^Zénith de Dijon#le^Zénith de Dijon#au^Zénith de Dijon#masculine#17#Businesses
+le^Musée des Beaux-Arts de Dijon#du^Musée des Beaux-Arts de Dijon#le^Musée des Beaux-Arts de Dijon#au^Musée des Beaux-Arts de Dijon#masculine#17#Museums
+l'^Université de Dijon#de^l'Université de Dijon#l'^Université de Dijon#à^l'Université de Dijon#feminine#17#Universities
+la^Gare de Limoges-Bénédictins#de^la Gare de Limoges-Bénédictins#la^Gare de Limoges-Bénédictins#à^la Gare de Limoges-Bénédictins#feminine#27#Businesses
+le^CHU de Reims#du^CHU de Reims#le^CHU de Reims#au^CHU de Reims#masculine#12#Hospitals
+la^Cathédrale de Reims#de^la Cathédrale de Reims#la^Cathédrale de Reims#à^la Cathédrale de Reims#feminine#12#Sights
+l'^Université de Reims#de^l'Université de Reims#l'^Université de Reims#à^l'Université de Reims#feminine#12#Universities
+le^Pont-Neuf#du^Pont-Neuf#le^Pont-Neuf#au^Pont-Neuf#masculine#1#Sights
+la^Cathédrale de Chartres#de^la Cathédrale de Chartres#la^Cathédrale de Chartres#à^la Cathédrale de Chartres#feminine#25#Sights
+l'^Université d'Orléans#de^l'Université d'Orléans#l'^Université d'Orléans#à^l'Université d'Orléans#feminine#33#Universities
+le^Musée d'Orsay#du^Musée d'Orsay#le^Musée d'Orsay#au^Musée d'Orsay#masculine#1#Museums
+le^Palais de Justice de Marseille#du^Palais de Justice de Marseille#le^Palais de Justice de Marseille#au^Palais de Justice de Marseille#masculine#2#Businesses
+l'^Aéroport de Nice-Côte d'Azur#de^l'Aéroport de Nice-Côte d'Azur#l'^Aéroport de Nice-Côte d'Azur#à^l'Aéroport de Nice-Côte d'Azur#masculine#5#Airports
+le^Musée Marc Chagall#du^Musée Marc Chagall#le^Musée Marc Chagall#au^Musée Marc Chagall#masculine#5#Museums
+le^Palais Nikaïa#du^Palais Nikaïa#le^Palais Nikaïa#au^Palais Nikaïa#masculine#5#Businesses
+la^Cathédrale Sainte-Croix#de^la Cathédrale Sainte-Croix#la^Cathédrale Sainte-Croix#à^la Cathédrale Sainte-Croix#feminine#33#Sights
+le^Centre Pompidou-Metz#du^Centre Pompidou-Metz#le^Centre Pompidou-Metz#au^Centre Pompidou-Metz#masculine#30#Museums
+le^CHRU de Nancy#du^CHRU de Nancy#le^CHRU de Nancy#au^CHRU de Nancy#masculine#37#Hospitals
+la^Place Stanislas#de^la Place Stanislas#la^Place Stanislas#à^la Place Stanislas#feminine#37#Sights
+l'^Université de Lorraine#de^l'Université de Lorraine#l'^Université de Lorraine#à^l'Université de Lorraine#feminine#37#Universities
+le^Muséum-Aquarium de Nancy#du^Muséum-Aquarium de Nancy#le^Muséum-Aquarium de Nancy#au^Muséum-Aquarium de Nancy#masculine#37#Museums
+la^Basilique Saint-Martin#de^la Basilique Saint-Martin#la^Basilique Saint-Martin#à^la Basilique Saint-Martin#feminine#25#Sights
+l'^Université de Tours#de^l'Université de Tours#l'^Université de Tours#à^l'Université de Tours#feminine#25#Universities
+le^Zénith d'Orléans#du^Zénith d'Orléans#le^Zénith d'Orléans#au^Zénith d'Orléans#masculine#33#Businesses
+le^Centre hospitalier de Tours#du^Centre hospitalier de Tours#le^Centre hospitalier de Tours#au^Centre hospitalier de Tours#masculine#25#Hospitals
+le^Musée de Grenoble#du^Musée de Grenoble#le^Musée de Grenoble#au^Musée de Grenoble#masculine#16#Museums
+le^Parc Chanot#du^Parc Chanot#le^Parc Chanot#au^Parc Chanot#masculine#2#Businesses
+le^Zénith de Strasbourg#du^Zénith de Strasbourg#le^Zénith de Strasbourg#au^Zénith de Strasbourg#masculine#7#Businesses
+le^Musée Alsacien#du^Musée Alsacien#le^Musée Alsacien#au^Musée Alsacien#masculine#7#Museums
+l'^Université Paul Valéry#de^l'Université Paul Valéry#l'^Université Paul Valéry#à^l'Université Paul Valéry#feminine#8#Universities
+le^Palais des Sports de Pau#du^Palais des Sports de Pau#le^Palais des Sports de Pau#au^Palais des Sports de Pau#masculine#27#Businesses
+la^Place de la République#de^la Place de la République#la^Place de la République#à^la Place de la République#feminine#1#Sights
+le^Musée de la Résistance#du^Musée de la Résistance#le^Musée de la Résistance#au^Musée de la Résistance#masculine#16#Museums
+le^Centre hospitalier de Brest#du^Centre hospitalier de Brest#le^Centre hospitalier de Brest#au^Centre hospitalier de Brest#masculine#24#Hospitals
+la^Tour Bretagne#de^la Tour Bretagne#la^Tour Bretagne#à^la Tour Bretagne#feminine#6#Sights
+le^Zénith de Rouen#du^Zénith de Rouen#le^Zénith de Rouen#au^Zénith de Rouen#masculine#35#Businesses
+le^Musée maritime de Rouen#du^Musée maritime de Rouen#le^Musée maritime de Rouen#au^Musée maritime de Rouen#masculine#35#Museums
+le^Centre hospitalier d'Amiens#du^Centre hospitalier d'Amiens#le^Centre hospitalier d'Amiens#au^Centre hospitalier d'Amiens#masculine#26#Hospitals
+le^Zénith d'Amiens#du^Zénith d'Amiens#le^Zénith d'Amiens#au^Zénith d'Amiens#masculine#26#Businesses
+le^Muséum d'Amiens#du^Muséum d'Amiens#le^Muséum d'Amiens#au^Muséum d'Amiens#masculine#26#Museums
+le^CHU de Dijon#du^CHU de Dijon#le^CHU de Dijon#au^CHU de Dijon#masculine#17#Hospitals
+le^Palais des Ducs de Bourgogne#du^Palais des Ducs de Bourgogne#le^Palais des Ducs de Bourgogne#au^Palais des Ducs de Bourgogne#masculine#17#Sights
+la^Cathédrale Saint-Maurice#de^la Cathédrale Saint-Maurice#la^Cathédrale Saint-Maurice#à^la Cathédrale Saint-Maurice#feminine#18#Sights
+l'^Université d'Angers#de^l'Université d'Angers#l'^Université d'Angers#à^l'Université d'Angers#feminine#18#Universities
+le^Musée des Beaux-Arts d'Angers#du^Musée des Beaux-Arts d'Angers#le^Musée des Beaux-Arts d'Angers#au^Musée des Beaux-Arts d'Angers#masculine#18#Museums
+la^Place Bellecour#de^la Place Bellecour#la^Place Bellecour#à^la Place Bellecour#feminine#3#Sights
+le^Centre hospitalier de Nîmes#du^Centre hospitalier de Nîmes#le^Centre hospitalier de Nîmes#au^Centre hospitalier de Nîmes#masculine#19#Hospitals
+le^Zénith de Pau#du^Zénith de Pau#le^Zénith de Pau#au^Zénith de Pau#masculine#27#Businesses
+la^Maison Carrée#de^la Maison Carrée#la^Maison Carrée#à^la Maison Carrée#feminine#19#Sights
