@@ -13,7 +13,7 @@ public class EntitiesGUI extends JFrame {
     public EntitiesGUI() {
         setTitle("Entity Browser");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setSize(400, 350);
+        setSize(450, 400);
         setLayout(new BorderLayout());
 
         loadEntitiesFromFile("data/namedEntities.txt");
