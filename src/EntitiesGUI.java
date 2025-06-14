@@ -21,25 +21,25 @@ public class EntitiesGUI extends JFrame {
         JPanel panel = new JPanel(new GridLayout(8, 2));
 
         // Creation of labels and fields
-        panel.add(new JLabel("Nominative:"));
+        panel.add(new JLabel("  Nominative:"));
         tfNom = new JTextField(); tfNom.setEditable(false); panel.add(tfNom);
 
-        panel.add(new JLabel("Genitive:"));
+        panel.add(new JLabel("  Genitive:"));
         tfGen = new JTextField(); tfGen.setEditable(false); panel.add(tfGen);
 
-        panel.add(new JLabel("Accusative:"));
+        panel.add(new JLabel("  Accusative:"));
         tfAcc = new JTextField(); tfAcc.setEditable(false); panel.add(tfAcc);
 
-        panel.add(new JLabel("Dative:"));
+        panel.add(new JLabel("  Dative:"));
         tfDat = new JTextField(); tfDat.setEditable(false); panel.add(tfDat);
 
-        panel.add(new JLabel("Gender:"));
+        panel.add(new JLabel("  Gender:"));
         tfGender = new JTextField(); tfGender.setEditable(false); panel.add(tfGender);
 
-        panel.add(new JLabel("City reference:"));
+        panel.add(new JLabel("  City reference:"));
         tfCityRef = new JTextField(); tfCityRef.setEditable(false); panel.add(tfCityRef);
 
-        panel.add(new JLabel("Entity Type:"));
+        panel.add(new JLabel("  Entity Type:"));
         tfType = new JTextField(); tfType.setEditable(false); panel.add(tfType);
         add(panel, BorderLayout.CENTER);
 
