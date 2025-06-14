@@ -8,7 +8,7 @@ public class CitiesGUI extends JFrame {
     private ArrayList<City> ALC = new ArrayList<>();
     private int currentIndex = 0;
 
-    private JTextField tfRef, tfNom, tfGen, tfAcc, tfDat, tfEnName, tfRegion, tfDepartment;
+    private JTextField tfRef, tfGen, tfDat, tfEnName, tfRegion, tfDepartment;
 
     public CitiesGUI() {
         setTitle("City Browser");
@@ -24,18 +24,11 @@ public class CitiesGUI extends JFrame {
         panel.add(new JLabel("Reference:"));
         tfRef = new JTextField(); tfRef.setEditable(false); panel.add(tfRef);
 
-        panel.add(new JLabel("Nominative:"));
-        tfNom = new JTextField(); tfNom.setEditable(false); panel.add(tfNom);
-
         panel.add(new JLabel("Genitive:"));
         tfGen = new JTextField(); tfGen.setEditable(false); panel.add(tfGen);
 
-        panel.add(new JLabel("Accusative:"));
-        tfAcc = new JTextField(); tfAcc.setEditable(false); panel.add(tfAcc);
-
         panel.add(new JLabel("Dative:"));
         tfDat = new JTextField(); tfDat.setEditable(false); panel.add(tfDat);
-
 
         panel.add(new JLabel("English name:"));
         tfEnName = new JTextField(); tfEnName.setEditable(false); panel.add(tfEnName);
@@ -95,9 +88,7 @@ public class CitiesGUI extends JFrame {
             currentIndex = index;
 
             tfRef.setText(String.valueOf(city.ref));
-            tfNom.setText(city.nom);
             tfGen.setText(city.gen);
-            tfAcc.setText(city.acc);
             tfDat.setText(city.dat);
             tfEnName.setText(city.enName);
             tfRegion.setText(city.region);
