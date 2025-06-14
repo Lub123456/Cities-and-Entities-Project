@@ -90,3 +90,11 @@ la^Place Bellecour#de^la Place Bellecour#la^Place Bellecour#à^la Place Bellecou
 le^Centre hospitalier de Nîmes#du^Centre hospitalier de Nîmes#le^Centre hospitalier de Nîmes#au^Centre hospitalier de Nîmes#masculine#19#Hospitals
 le^Zénith de Pau#du^Zénith de Pau#le^Zénith de Pau#au^Zénith de Pau#masculine#27#Businesses
 la^Maison Carrée#de^la Maison Carrée#la^Maison Carrée#à^la Maison Carrée#feminine#19#Sights
+le^Musée d'Art Moderne#du^Musée d'Art Moderne#le^Musée d'Art Moderne#au^Musée d'Art Moderne#masculine#1#Museums
+la^Cathédrale Saint-Jean#de^la Cathédrale Saint-Jean#la^Cathédrale Saint-Jean#à^la Cathédrale Saint-Jean#feminine#3#Sights
+l'^Université Jean Monnet#de^l'Université Jean Monnet#l'^Université Jean Monnet#à^l'Université Jean Monnet#feminine#14#Universities
+le^Centre hospitalier de Tours#du^Centre hospitalier de Tours#le^Centre hospitalier de Tours#au^Centre hospitalier de Tours#masculine#25#Hospitals
+le^Musée de la Romanité#du^Musée de la Romanité#le^Musée de la Romanité#au^Musée de la Romanité#masculine#19#Museums
+la^Place Masséna#de^la Place Masséna#la^Place Masséna#à^la Place Masséna#feminine#5#Sights
+l'^Université de Perpignan#de^l'Université de Perpignan#l'^Université de Perpignan#à^l'Université de Perpignan#feminine#29#Universities
+le^Zénith d'Aix-en-Provence#du^Zénith d'Aix-en-Provence#le^Zénith d'Aix-en-Provence#au^Zénith d'Aix-en-Provence#masculine#23#Businesses
