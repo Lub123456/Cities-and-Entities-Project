@@ -13,12 +13,12 @@ public class CitiesGUI extends JFrame {
     public CitiesGUI() {
         setTitle("City Browser");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setSize(500, 300);
+        setSize(500, 350);
         setLayout(new BorderLayout());
 
         loadCitiesFromFile("data/cities.txt");
 
-        JPanel panel = new JPanel(new GridLayout(8, 2));
+        JPanel panel = new JPanel(new GridLayout(7, 2));
 
         // Creation of labels and fields
         panel.add(new JLabel("Reference:"));
